@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Pavel Yakovenko",
+  "author": "Ergaf",
   "license": "yes",
   "dependencies": {
     "body-parser": "^1.19.0",
